@@ -1,0 +1,34 @@
+baseurl: ""
+url: "http://olgacherevatenko.icoach.io"
+markdown: kramdown
+exclude:
+  - node_modules
+  - package.json
+  - README.md
+  - gulpfile.js
+  - deploy
+  - deploy-key.enc
+  - deploy-key
+
+title: "Ольга Череватенко"
+description: "интенсивная подготовка к интервью на английском"
+keywords: "фитнес, спорт, тренер, эмиграция, английский"
+author: "Николай Воробьёв"
+
+permalink: /:title/
+
+vk_group_id: 135822744
+yandex_metrika: 41730899 # olgacherevatenko.icoach.io
+google_analytics: UA-89298735-2 # olgacherevatenko.icoach.io
+facebook_pixel_id: 1064201373633710
+vk_retarget_url: '//vk.com/rtrg?r=OvimBpe4kMzlsETXnskX5qMqZqgXF08M3nEoZiGMto1KvxkpXVLaw2ROVsIMdcs9XO4BCPn9ZOFzJRXrDrJ/WBRNPpi7kVEjzy8Lwm9nryXziMvSBpFCP05AV319MGQQ9VWEYAzc3373rQNULXm32r7Td58Bi0i31Y4siJojLNY-&pixel_id=1000057396'
+
+company:
+  name: ООО Реальность
+  city: Санкт-Петербург
+  street: ул. Некрасова 40
+  phone: +7 (499) 112-47-92
+  email: olgacherevatenko@icoach.io
+
+trello-list-id: 585a39439f503fc591dbc84a
+offer: "Мастер-класс Ольги Череватенко"
